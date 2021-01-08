@@ -1,0 +1,782 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,2987130,,10338920,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,20459,,79742,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,60900,,208407,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,98263,,856328,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,142715,,485361,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1952806,,3189848,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,5098,,30730,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,100344,,577614,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,9021,,127674,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,5832,,55784,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,36734,,203714,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,1894,,16471,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,2296,,12119,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,19968,,72052,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,110700,,371769,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,1241,,7273,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,184572,,3285236,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,3280,,21380,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,817,,288,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,66859,,169380,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,699,India,,,,,,,,,0409,Honey; natural,,,,,,,164,,2385,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,28637,,125438,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,15730,,71234,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,894,Zambia,,,,,,,,,0409,Honey; natural,,,,,,,58500,,228215,,,0
+HS,2014,201403,March 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,60300,,140481,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,125508,,883728,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,20964,,82545,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,61203,,213452,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,245308,,832588,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,3019579,,5041526,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,11866,,74679,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,34963,,212844,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,4251503,,12569857,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,101959,,557930,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,59620,,453148,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,4633,,36403,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,982,,3413,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,85800,,294937,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,498,Rep. of Moldova,,,,,,,,,0409,Honey; natural,,,,,,,20060,,74437,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,3960,,20416,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,122516,,2432437,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,1383,,9586,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,128570,,853843,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,45,,390,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,1584,,18385,,,0
+HS,2014,201401,January 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,201000,,473169,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,139373,,1413875,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,2178,,14746,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,404,,13586,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,144,,3830,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,933,,8853,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,200,,2112,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,286,,3394,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,5360,,88341,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,259,,4830,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,48,Bahrain,,,,,,,,,0409,Honey; natural,,,,,,,119,,1400,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,315,,4890,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,4962,,79883,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,792,Turkey,,,,,,,,,0409,Honey; natural,,,,,,,110,,1422,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,1084,,11771,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,1229,,22067,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,1076,,37760,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,136,,2608,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,4528,,52783,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,16,,1183,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,416,,2201,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,832,,9077,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,275,,7295,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,95,,1679,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,5302,,221652,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,19597,,94446,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,4931,,88245,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,12,,496,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,14,,94,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,446,"China, Macao SAR",,,,,,,,,0409,Honey; natural,,,,,,,1825,,11318,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,641,,7828,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2301,,87061,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,410,Rep. of Korea,,,,,,,,,0409,Honey; natural,,,,,,,1008,,11590,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,72206,,464388,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,3079,,22858,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,565,,8115,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,2703,,18247,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,12,,122,,,0
+HS,2014,201401,January 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,220,,1705,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,128168,,2235818,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,4,Afghanistan,,,,,,,,,0409,Honey; natural,,,,,,,2508,,23973,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,207,,3728,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,102,,1763,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,2146,,29648,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,290,,2233,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,1761,,19831,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,2840,,58361,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,1569,,42791,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,233,Estonia,,,,,,,,,0409,Honey; natural,,,,,,,2,,56,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,108,,873,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,22099,,112840,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,4340,,119790,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,288,Ghana,,,,,,,,,0409,Honey; natural,,,,,,,634,,2145,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,217,,2701,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,831,,8884,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,35269,,389250,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2508,,82800,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,400,Jordan,,,,,,,,,0409,Honey; natural,,,,,,,1366,,15778,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,185,,2230,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,601,,8424,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,84,,3909,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,84,,1452,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,3836,,651486,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,15115,,76756,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,665,,34402,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,9058,,67723,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,4459,,192073,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,154,,4271,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,13,,301,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,5644,,59560,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,699,India,,,,,,,,,0409,Honey; natural,,,,,,,2640,,30771,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,193,,2387,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,1914,,32842,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,1788,,74200,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,12,,1365,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,2627,,72176,,,0
+HS,2014,201402,February 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,299,,2046,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,139280,,1676156,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,4,Afghanistan,,,,,,,,,0409,Honey; natural,,,,,,,384,,3647,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,190,,4106,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,52,Barbados,,,,,,,,,0409,Honey; natural,,,,,,,705,,8187,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,971,,8308,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,944,,7048,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,4403,,59054,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,,,,,,,,,0409,Honey; natural,,,,,,,75,,2834,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,136,Cayman Isds,,,,,,,,,0409,Honey; natural,,,,,,,155,,1451,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,300,,6279,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,699,India,,,,,,,,,0409,Honey; natural,,,,,,,1062,,12326,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,470,,4793,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,682,,34422,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,5676,,67592,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,87,,1441,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,44,,1453,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,1409,,98350,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,10832,,61163,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,170,,7843,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,27822,,219008,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,1,,7,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,201,,3958,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,25,,564,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,1859,,101914,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,4552,,27550,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,48800,,455876,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,4,,47,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,260,,3931,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,11113,,211886,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,136,,1679,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,,,,,,,,,0409,Honey; natural,,,,,,,37,,1390,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,367,,3247,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,3988,,35350,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,567,,21877,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,233,Estonia,,,,,,,,,0409,Honey; natural,,,,,,,6,,133,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,146,,3426,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,208,,1478,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,5137,,64904,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,1335,,43594,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,3177,,55825,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,782,,23183,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,103,,3099,,,0
+HS,2014,201403,March 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,95,,1933,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,37909,,133958,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,61200,,250465,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,3202404,,11785186,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,61929,,214777,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,124,Canada,,,,,,,,,0409,Honey; natural,,,,,,,100,,27955,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,152,Chile,,,,,,,,,0409,Honey; natural,,,,,,,20400,,82302,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1762332,,2914849,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,172339,,1276243,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,33070,,242689,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,94539,,570830,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,1421,,19371,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,320,Guatemala,,,,,,,,,0409,Honey; natural,,,,,,,40000,,143723,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,28774,,172877,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,1008,,11826,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,1920,,9064,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,19944,,71851,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,327632,,1157114,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,5550,,30966,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,203202,,3321131,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,31025,,134229,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,33,,410,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,56530,,298934,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,66888,,254044,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,160800,,382383,,,0
+HS,2014,201404,April 2014,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,13859,,63194,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,752,,10612,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,68,,1140,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,1715,,14435,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,4611,,62374,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,333,,3100,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,1424,,33112,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,4009,,112453,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,1629,,52245,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,482,,25867,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,5774,,70368,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,541,,4449,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,91,,1446,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,2445,,29078,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,4396,,204964,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,250,,8234,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,4828,,24768,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,335,,2477,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,4464,,34627,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,490,"Other Asia, nes",,,,,,,,,0409,Honey; natural,,,,,,,483,,5653,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,51,,738,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0409,Honey; natural,,,,,,,306,,2039,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,855,,12519,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2793,,90889,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,2033,,15657,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0409,Honey; natural,,,,,,,2295,,13059,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0409,Honey; natural,,,,,,,165,,1952,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,31071,,203981,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,8541,,118696,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,743,,14818,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,7742,,25862,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,,,,,,,,,0409,Honey; natural,,,,,,,57,,1930,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,2340,,29635,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,1556,,13925,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,60,Bermuda,,,,,,,,,0409,Honey; natural,,,,,,,160,,1674,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,22440,,55943,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,713,,5663,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,597,,7937,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,1156,,14124,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,495,,9168,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,187,,4834,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,125675,,1355394,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,4,Afghanistan,,,,,,,,,0409,Honey; natural,,,,,,,520,,5070,,,0
+HS,2014,201404,April 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,229,,3882,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,135580,,1671452,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,753,,13782,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,14,,148,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,4241,,46721,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,159,,4159,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,811,,11844,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,2669,,28189,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,1402,,42935,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,1606,,11361,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,136,Cayman Isds,,,,,,,,,0409,Honey; natural,,,,,,,145,,1446,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,21458,,108260,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,510,,10061,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,897,,9423,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,8,,145,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,220,,1997,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,360,Indonesia,,,,,,,,,0409,Honey; natural,,,,,,,374,,2597,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,1391,,13025,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,55919,,413340,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,3403,,124344,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,1662,,12808,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0409,Honey; natural,,,,,,,240,,1798,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,430,Liberia,,,,,,,,,0409,Honey; natural,,,,,,,230,,1469,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,18,,590,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,125,,1463,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,658,,8447,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,512,Oman,,,,,,,,,0409,Honey; natural,,,,,,,141,,3065,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,2001,,25153,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,2045,,256552,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,113,,4106,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,3282,,38598,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,57,,6358,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,5644,,66384,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,699,India,,,,,,,,,0409,Honey; natural,,,,,,,131,,1712,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,483,,5690,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,8,,57,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,358,,6546,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,6276,,84958,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,2486,,123315,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,1265,,52172,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,5103,,24991,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,710,,24551,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,5560,,65128,,,0
+HS,2014,201405,May 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,1004,,11763,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,425524,,2186332,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,808,,15440,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,72,,1567,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,,,,,,,,,0409,Honey; natural,,,,,,,382,,5761,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,230779,,646486,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,25,,340,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,1239,,13210,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,2219,,25645,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,2883,,76739,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,135,,4456,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,93475,,414489,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,538,,13364,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,551,,9069,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,5890,,71214,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,11,,264,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,180,,2519,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,42247,,279318,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,642,,11877,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,1210,,9072,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,400,Jordan,,,,,,,,,0409,Honey; natural,,,,,,,2689,,31727,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,404,Kenya,,,,,,,,,0409,Honey; natural,,,,,,,368,,2539,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0409,Honey; natural,,,,,,,2664,,34793,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,4,,32,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0409,Honey; natural,,,,,,,24,,2380,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,833,,8406,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,6,,323,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,5338,,55736,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,2157,,80738,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,145,,4006,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,6,,86,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,163,,2049,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,699,India,,,,,,,,,0409,Honey; natural,,,,,,,2976,,35130,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,1839,,16344,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,140,,3190,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,76,,3158,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,8170,,44545,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,2152,,39237,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,4192,,109972,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,572,,4490,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,7305,,100375,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,792,Turkey,,,,,,,,,0409,Honey; natural,,,,,,,50,,2155,,,0
+HS,2014,201406,June 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,369,,4091,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,411136,,2358422,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,4,Afghanistan,,,,,,,,,0409,Honey; natural,,,,,,,481,,4787,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,20,Andorra,,,,,,,,,0409,Honey; natural,,,,,,,30,,3269,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,93,,1996,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,195,,3452,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,148150,,440237,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,342,,4360,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,970,,14622,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,151,,6313,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,494,,20205,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,55,,782,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,165311,,776059,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,2455,,65193,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,524,,9803,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,962,,6955,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,75,,690,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2285,,101365,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,4341,,27582,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,410,Rep. of Korea,,,,,,,,,0409,Honey; natural,,,,,,,1209,,14412,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,7,,198,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,273,,3978,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,40295,,396272,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,3145,,57650,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,22181,,103187,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,190,,10037,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,3153,,95852,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,8,,410,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,65,,2431,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,575,,7549,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,381,,7787,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,7,,114,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,101,,1931,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,2685,,31995,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,2173,,26277,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,5221,,78251,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,2224,,27797,,,0
+HS,2014,201407,July 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,329,,4625,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,100035,,388423,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,81602,,372200,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,2917291,,12782567,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,101274,,372133,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,124,Canada,,,,,,,,,0409,Honey; natural,,,,,,,88,,5320,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1191183,,1970741,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,104429,,582090,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,231,Ethiopia,,,,,,,,,0409,Honey; natural,,,,,,,15100,,57032,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,68206,,394244,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,150035,,769576,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,61,,1029,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,31562,,342962,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,1208,,12128,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,61549,,254974,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,479,,2327,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,40461,,143042,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,176245,,4325754,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,1053,,7048,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,583870,,2144872,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,8331,,48028,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,704,Viet Nam,,,,,,,,,0409,Honey; natural,,,,,,,99000,,247017,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,60312,,246207,,,0
+HS,2014,201408,August 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,41208,,95420,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,290,,2218,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,1456,,26368,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,413,,5959,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,1566,,22428,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,62,,782,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,1099,,16657,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,158,,2647,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,1480,,44885,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,4911,,199052,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,243,,3050,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,9,,494,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,301,,4022,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,694,Sierra Leone,,,,,,,,,0409,Honey; natural,,,,,,,563,,3947,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,19232,,174469,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,19972,,94755,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,159,,1358,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,608,Philippines,,,,,,,,,0409,Honey; natural,,,,,,,338,,2255,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,593,,10878,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,38849,,307585,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,241,,4655,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,734,,5792,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0409,Honey; natural,,,,,,,612,,23818,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,11,,433,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,520,,1450,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,5187,,187778,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,984,,6663,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,281,,5223,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,46458,,244266,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),,,,,,,,,0409,Honey; natural,,,,,,,167,,1635,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,220,,6295,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,206,,3245,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,446,,9325,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,139,,2345,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,929,,10073,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,656,,10745,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,141,,2681,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,149641,,1450395,,,0
+HS,2014,201408,August 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,15,,164,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,3889960,,11807709,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,59407,,204683,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,20400,,93098,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,147235,,807531,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,124,Canada,,,,,,,,,0409,Honey; natural,,,,,,,106,,7428,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,152,Chile,,,,,,,,,0409,Honey; natural,,,,,,,11880,,137511,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,2383135,,3728584,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,166793,,628891,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,1225,,5702,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,31183,,237043,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,160952,,901386,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,612,,5683,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2816,,26961,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,3052,,16366,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,27614,,156528,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,414888,,1513675,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,1957,,9695,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,91966,,2053854,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,59599,,247311,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,114,,5177,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,27204,,118419,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,153307,,610740,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,100760,,229545,,,0
+HS,2014,201409,September 2014,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,23755,,61901,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,69,,4089,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,13,,246,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,8485,,52063,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,1004,,11096,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,3318,,48012,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,259,,4351,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,1660,,100564,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,18,,683,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,3285,,54022,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,699,India,,,,,,,,,0409,Honey; natural,,,,,,,1128,,12840,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,352,,3789,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,149,,2477,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,567,,20491,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,28692,,136100,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,655,,41847,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,1861,,17279,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,496,Mongolia,,,,,,,,,0409,Honey; natural,,,,,,,208,,1369,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,88540,,838101,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,32,,505,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,59,,755,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,446,"China, Macao SAR",,,,,,,,,0409,Honey; natural,,,,,,,1450,,9936,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0409,Honey; natural,,,,,,,678,,6444,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,400,,8241,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,3302,,102124,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,423,,3468,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,400,Jordan,,,,,,,,,0409,Honey; natural,,,,,,,731,,8323,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,530,,3652,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,3092,,38669,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,17,,223,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,1468,,5221,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,201,,1951,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,2111,,18180,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,1827,,40658,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,213,,4265,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,,,,,,,,,0409,Honey; natural,,,,,,,10,,189,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1007,,14160,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,502,,6336,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,638,,7690,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,3594,,37182,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,107,,1283,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,513,,10772,,,0
+HS,2014,201409,September 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,163168,,1679645,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,202294,,2203302,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,22,,1390,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,42,,739,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,7002,,4163,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,,,,,,,,,0409,Honey; natural,,,,,,,156,,2159,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1527,,18318,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,105,,2617,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,903,,16766,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,2779,,58224,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,3527,,100444,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,424,,5734,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,12173,,42367,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,1567,,41408,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,815,,17586,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,1966,,18829,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,47,,951,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,1264,,8367,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,71826,,658217,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,1984,,71211,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,1559,,72869,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,400,Jordan,,,,,,,,,0409,Honey; natural,,,,,,,882,,8018,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,410,Rep. of Korea,,,,,,,,,0409,Honey; natural,,,,,,,1008,,11302,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0409,Honey; natural,,,,,,,102,,1354,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,7,,206,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,10,,165,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,305,,6095,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,8131,,45835,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,46422,,202235,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,142,,5572,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,10998,,404203,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,145,,1872,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,2685,,30109,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,1037,,52029,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,5644,,63292,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,699,India,,,,,,,,,0409,Honey; natural,,,,,,,2194,,13174,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,809,,7432,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,768,,6097,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,58,,1190,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,2607,,42818,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,2326,,62171,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,245,,3917,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,559,,4052,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,4490,,57388,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,792,Turkey,,,,,,,,,0409,Honey; natural,,,,,,,100,,2169,,,0
+HS,2014,201410,October 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,932,,28247,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,162702,,2197404,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,272,,3950,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,732,,17731,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,1363,,14577,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,988,,11708,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,3917,,54247,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,1234,,32311,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,233,Estonia,,,,,,,,,0409,Honey; natural,,,,,,,6,,169,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,190,,4654,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,101,,1693,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,9861,,238168,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,836,,21612,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,795,,12507,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,4321,,40843,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,24,,273,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,385,,2452,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,76427,,1030038,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,5764,,197769,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,290,,1999,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,400,Jordan,,,,,,,,,0409,Honey; natural,,,,,,,515,,21852,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0409,Honey; natural,,,,,,,556,,2791,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,428,Latvia,,,,,,,,,0409,Honey; natural,,,,,,,2,,6,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,1,,99,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,64,,683,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,577,,4558,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,490,"Other Asia, nes",,,,,,,,,0409,Honey; natural,,,,,,,241,,2663,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,3294,,37939,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,24320,,114343,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0409,Honey; natural,,,,,,,655,,38071,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,2486,,25311,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,22,,1025,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,1081,,10493,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,694,Sierra Leone,,,,,,,,,0409,Honey; natural,,,,,,,212,,1320,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0409,Honey; natural,,,,,,,143,,1884,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,80,,970,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,2983,,32853,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,651,,12765,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,3229,,41750,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,197,,4113,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0409,Honey; natural,,,,,,,820,,9027,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,21,,341,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,12193,,137774,,,0
+HS,2014,201411,November 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,853,,8070,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,153731,,1699458,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,176,,3470,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,52,Barbados,,,,,,,,,0409,Honey; natural,,,,,,,403,,4403,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,1705,,10497,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,,,,,,,,,0409,Honey; natural,,,,,,,63,,774,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,124,Canada,,,,,,,,,0409,Honey; natural,,,,,,,400,,2488,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,4095,,31625,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0409,Honey; natural,,,,,,,538,,7660,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0409,Honey; natural,,,,,,,431,,4653,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0409,Honey; natural,,,,,,,7149,,85795,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,1440,,38934,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,231,Ethiopia,,,,,,,,,0409,Honey; natural,,,,,,,150,,1464,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0409,Honey; natural,,,,,,,291,,3664,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,31131,,132166,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,240,,1649,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,23,,490,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,352,Iceland,,,,,,,,,0409,Honey; natural,,,,,,,80,,2469,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,360,Indonesia,,,,,,,,,0409,Honey; natural,,,,,,,229,,1499,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,397,,7408,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0409,Honey; natural,,,,,,,893,,7904,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,28666,,345038,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,1844,,91260,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0409,Honey; natural,,,,,,,3883,,31508,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0409,Honey; natural,,,,,,,2635,,28175,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,1,,13,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,84,,1044,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,446,"China, Macao SAR",,,,,,,,,0409,Honey; natural,,,,,,,1140,,7576,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0409,Honey; natural,,,,,,,680,,6773,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,336,,5013,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,1240,,13739,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0409,Honey; natural,,,,,,,30619,,141554,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,11553,,410108,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,249,,2798,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0409,Honey; natural,,,,,,,244,,2264,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,26,,837,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0409,Honey; natural,,,,,,,8631,,90312,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,408,,3151,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,44,,897,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,455,,5506,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0409,Honey; natural,,,,,,,5092,,54794,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0409,Honey; natural,,,,,,,1697,,46063,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,3854,,51690,,,0
+HS,2014,201412,December 2014,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,516,,10333,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,80400,,189780,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,894,Zambia,,,,,,,,,0409,Honey; natural,,,,,,,21600,,84778,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,182762,,859912,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,704,Viet Nam,,,,,,,,,0409,Honey; natural,,,,,,,39440,,117207,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,705,Slovenia,,,,,,,,,0409,Honey; natural,,,,,,,93,,765,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,26378,,65996,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,612,Pitcairn,,,,,,,,,0409,Honey; natural,,,,,,,115,,2787,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,2417,,15705,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,132637,,2924737,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,44300,,163513,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,3930,,19933,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,1016,,5403,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,181,,2018,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,143374,,733857,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,77850,,558669,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,82298,,434679,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,157589,,824320,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,7201,,100062,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,231,Ethiopia,,,,,,,,,0409,Honey; natural,,,,,,,41760,,107097,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,4438,,25296,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1268780,,1944799,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,124,Canada,,,,,,,,,0409,Honey; natural,,,,,,,90,,4867,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,145708,,579853,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,103195,,689474,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,41457,,169595,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,20400,,89735,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,50,,637,,,0
+HS,2014,201412,December 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,2629459,,10715474,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,17989,,79606,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,894,Zambia,,,,,,,,,0409,Honey; natural,,,,,,,43200,,170412,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,35434,,159662,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,89403,,519452,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,122035,,1883137,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,28718,,119286,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,37082,,154266,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,50221,,118770,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,387,,2625,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,4551,,38901,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,2798,,27752,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,30806,,188064,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,1436,,21088,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,124775,,696806,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,40459,,238384,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,231,Ethiopia,,,,,,,,,0409,Honey; natural,,,,,,,10440,,37364,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,9384,,53091,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,61200,,190249,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1827420,,2949529,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,118219,,812317,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,38260,,119152,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,60860,,211807,,,0
+HS,2014,201402,February 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,2755077,,8791718,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,1025,,7156,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,40200,,93355,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,111974,,476150,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,110585,,2292264,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,340,,2388,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,107066,,373348,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,470,Malta,,,,,,,,,0409,Honey; natural,,,,,,,1,,1950,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,3875,,39299,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,29792,,178225,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,320,Guatemala,,,,,,,,,0409,Honey; natural,,,,,,,41000,,154663,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,4007,,64053,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1232840,,2192712,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,20620,,154516,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,61845,,222594,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,90368,,430450,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,79351,,286411,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,60900,,269283,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,2118483,,7963086,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,90141,,554924,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,5329,,52553,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,949,,5060,,,0
+HS,2014,201405,May 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,26275,,111732,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,2361307,,9381992,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,143741,,870507,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,158676,,627723,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,20400,,90916,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,60300,,142064,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,2443,,17244,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,704,Viet Nam,,,,,,,,,0409,Honey; natural,,,,,,,19800,,50952,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,41356,,201341,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,87672,,1931730,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0409,Honey; natural,,,,,,,19968,,70858,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,474780,,1706075,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,3677,,23223,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,760,,2887,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2795,,22012,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,111678,,189782,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,6698,,65181,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,320,Guatemala,,,,,,,,,0409,Honey; natural,,,,,,,62400,,231648,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,113202,,679276,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,37762,,295783,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,231,Ethiopia,,,,,,,,,0409,Honey; natural,,,,,,,9280,,33857,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,152,Chile,,,,,,,,,0409,Honey; natural,,,,,,,20100,,81203,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,759335,,1282913,,,0
+HS,2014,201406,June 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,204484,,764819,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,3122086,,13555637,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,119766,,717108,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,28452,,160222,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,3696,,27151,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,167955,,642563,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,1498242,,2473354,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,84291,,593535,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,60675,,244058,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,20400,,96115,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2685,,29896,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,34093,,161081,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,28535,,247264,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,320,Guatemala,,,,,,,,,0409,Honey; natural,,,,,,,41417,,150734,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,613,,5956,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,643610,,2436287,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,1544,,9048,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,1680,,9342,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,237551,,5002799,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,55,,328,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,1572,,11600,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0409,Honey; natural,,,,,,,57,,3104,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,54072,,272725,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,30645,,116137,,,0
+HS,2014,201407,July 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,60480,,145228,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,54881,,298501,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,32133,,142864,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,69173,,1255318,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,286772,,1048644,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,3038,,14695,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,1717,,6651,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,2549,,23817,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,61122,,709244,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,4673,,57078,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,320,Guatemala,,,,,,,,,0409,Honey; natural,,,,,,,20000,,73770,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,402,,6749,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,100359,,567105,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,17165,,177637,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,124,Canada,,,,,,,,,0409,Honey; natural,,,,,,,46,,3792,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,152,Chile,,,,,,,,,0409,Honey; natural,,,,,,,11880,,135651,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,2756774,,4252568,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,145460,,565969,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,126360,,501043,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,19446,,67351,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,36,Australia,,,,,,,,,0409,Honey; natural,,,,,,,61072,,270606,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,3875239,,10577978,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,74131,,331911,,,0
+HS,2014,201410,October 2014,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,26086,,67015,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,32,Argentina,,,,,,,,,0409,Honey; natural,,,,,,,20036,,82291,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,40,Austria,,,,,,,,,0409,Honey; natural,,,,,,,145,,683,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0409,Honey; natural,,,,,,,7794,,48383,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,76,Brazil,,,,,,,,,0409,Honey; natural,,,,,,,178575,,687389,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,124,Canada,,,,,,,,,0409,Honey; natural,,,,,,,33,,2471,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,156,China,,,,,,,,,0409,Honey; natural,,,,,,,3683527,,5748584,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,300,Greece,,,,,,,,,0409,Honey; natural,,,,,,,4400,,61117,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0409,Honey; natural,,,,,,,129897,,739800,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0409,Honey; natural,,,,,,,276167,,921033,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0409,Honey; natural,,,,,,,35157,,227344,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0409,Honey; natural,,,,,,,4919255,,12426685,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0409,Honey; natural,,,,,,,27464,,80932,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0409,Honey; natural,,,,,,,4901,,43798,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0409,Honey; natural,,,,,,,41337,,353070,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0409,Honey; natural,,,,,,,114511,,402829,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,764,Thailand,,,,,,,,,0409,Honey; natural,,,,,,,80400,,188255,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,704,Viet Nam,,,,,,,,,0409,Honey; natural,,,,,,,39000,,100378,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0409,Honey; natural,,,,,,,57940,,312655,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0409,Honey; natural,,,,,,,19905,,50216,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0409,Honey; natural,,,,,,,22,,5235,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0409,Honey; natural,,,,,,,12225,,63572,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,554,New Zealand,,,,,,,,,0409,Honey; natural,,,,,,,88399,,1949487,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0409,Honey; natural,,,,,,,6143,,27301,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,484,Mexico,,,,,,,,,0409,Honey; natural,,,,,,,89624,,321425,,,0
+HS,2014,201411,November 2014,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0409,Honey; natural,,,,,,,1653,,8437,,,0
